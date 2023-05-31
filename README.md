@@ -1,4 +1,3 @@
-# Projects
 ## [@sutharrahul](https://github.com/sutharrahul)
 
 
