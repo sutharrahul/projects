@@ -40,7 +40,7 @@
 ### 8. Credit-card
 - [Deployment](https://sutharrahul.github.io/Credit-card/)
 - [Code](https://github.com/sutharrahul/Credit-card)
-- ![Credit card landing page copy](https://github.com/sutharrahul/projects/assets/117563756/ae154262-a631-48d9-9eaa-42ea2b16d95a)
+- <img src="https://github.com/sutharrahul/projects/assets/117563756/d548ebc0-ff0f-4bbd-a623-8733df5cea47" height="150"/>
 
 ### 9. Gamming-Site
 - [Deployment](https://sutharrahul.github.io/gaming-site/)
