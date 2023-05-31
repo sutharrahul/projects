@@ -2,7 +2,7 @@
 ## [@sutharrahul](https://github.com/sutharrahul)
 
 
-### 1. hosting site
+### 1. Hosting site
   - [Deployment] 
     - https://sutharrahul.github.io/hosting-site/
 
