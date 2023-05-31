@@ -25,17 +25,19 @@
 ### 5. Medifine 
 - [Deployment (https://sutharrahul.github.io/medifine/)](https://sutharrahul.github.io/medifine/)
 - [Code (https://github.com/sutharrahul/medifine)](https://github.com/sutharrahul/medifine)
-- <img src="https://github.com/sutharrahul/projects/assets/117563756/05eb2060-b42d-4b66-bf48-d9262187d05e" height="150"/>
+- ![Medify copy](https://github.com/sutharrahul/projects/assets/117563756/fea6304c-5fc5-42a2-bdc5-36e8e9ca3ec5)
+
 
 ### 6. Justice-league
 - [Deployment (https://sutharrahul.github.io/justice-league/)](https://sutharrahul.github.io/justice-league/)
 - [Code (https://github.com/sutharrahul/justice-league)](https://github.com/sutharrahul/justice-league)
-- <img src="https://github.com/sutharrahul/projects/assets/117563756/ccb7d372-bfe6-4277-a719-d183f21b4394" height="150"/>
+![Justice copy](https://github.com/sutharrahul/projects/assets/117563756/8dc60f2e-aca2-4034-9103-ea6a1ca7a3d3)
 
 ### 7. Relaxify 
 - [Deployment (https://sutharrahul.github.io/relaxify/)](https://sutharrahul.github.io/relaxify/)
 - [Code (https://github.com/sutharrahul/relaxify)](https://github.com/sutharrahul/relaxify)
-- <img src="https://github.com/sutharrahul/projects/assets/117563756/8b7c6422-7f98-45a6-87be-e3ee0f879797" height="150"/>
+- ![relixy](https://github.com/sutharrahul/projects/assets/117563756/837dcf55-9d22-464f-b155-7d5b19eb7ba3)
+
 
 ### 8. Credit-card
 - [Deployment (https://sutharrahul.github.io/Credit-card/)](https://sutharrahul.github.io/Credit-card/)
