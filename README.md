@@ -10,7 +10,7 @@
 ### 2. Fashion-Hub-web-page
   - [Deployment](https://sutharrahul.github.io/Fashion-Hub-web-page/)
   - [Code](https://github.com/sutharrahul/Fashion-Hub-web-page)
-  - ![Fashion hub](https://github.com/sutharrahul/projects/assets/117563756/ae81ce16-1a80-42a8-9178-718fdbd2c312)
+  - ![Fashion hub](https://github.com/sutharrahul/projects/assets/117563756/51c02bd6-71da-42e9-91bc-6e19b9179eab)
 
 ### 3. SEO-master-webpage
   - [Deployment](https://sutharrahul.github.io/SEO-master-webpage/)
@@ -40,20 +40,20 @@
 ### 8. Credit-card
 - [Deployment](https://sutharrahul.github.io/Credit-card/)
 - [Code](https://github.com/sutharrahul/Credit-card)
-![Credit card landing page copy](https://github.com/sutharrahul/projects/assets/117563756/ae154262-a631-48d9-9eaa-42ea2b16d95a)
+- ![Credit card landing page copy](https://github.com/sutharrahul/projects/assets/117563756/ae154262-a631-48d9-9eaa-42ea2b16d95a)
 
 ### 9. Gamming-Site
 - [Deployment](https://sutharrahul.github.io/gaming-site/)
 - [Code](https://github.com/sutharrahul/gaming-site)
-![Gaming Landing Page copy](https://github.com/sutharrahul/projects/assets/117563756/e45ffea0-8f1e-4b3e-a5b8-cc21e02c7ea8)
+- ![Gaming Landing Page copy](https://github.com/sutharrahul/projects/assets/117563756/e45ffea0-8f1e-4b3e-a5b8-cc21e02c7ea8)
 
 ### 10. Real-estate
 - [Deployment](https://sutharrahul.github.io/real-estate/)
 - [Code](https://github.com/sutharrahul/real-estate)
-![Real Estate - Desktop copy](https://github.com/sutharrahul/projects/assets/117563756/4f65f336-c6a9-4229-812a-7278d320a270)
+- ![Real Estate - Desktop copy](https://github.com/sutharrahul/projects/assets/117563756/4f65f336-c6a9-4229-812a-7278d320a270)
 
 ### 11. Beats-audio
 - [Deployment](https://sutharrahul.github.io/beats-audio/)
 - [Code](https://github.com/sutharrahul/beats-audio)
-![Main Landing page copy](https://github.com/sutharrahul/projects/assets/117563756/9df1771b-b063-45f1-acd5-0a2ed3fd9cdb)
+- ![Main Landing page copy](https://github.com/sutharrahul/projects/assets/117563756/9df1771b-b063-45f1-acd5-0a2ed3fd9cdb)
 
