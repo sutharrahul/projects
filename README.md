@@ -31,7 +31,7 @@
 ### 6. Justice-league
 - Deployment: [(https://sutharrahul.github.io/justice-league/)](https://sutharrahul.github.io/justice-league/)
 - Code: [(https://github.com/sutharrahul/justice-league)](https://github.com/sutharrahul/justice-league)
-![Justice copy](https://github.com/sutharrahul/projects/assets/117563756/8dc60f2e-aca2-4034-9103-ea6a1ca7a3d3)
+- ![Justice copy](https://github.com/sutharrahul/projects/assets/117563756/8dc60f2e-aca2-4034-9103-ea6a1ca7a3d3)
 
 ### 7. Relaxify 
 - Deployment: [(https://sutharrahul.github.io/relaxify/)](https://sutharrahul.github.io/relaxify/)
