@@ -2,8 +2,8 @@
 
 
 ### 1. Hosting site
-  - [Deployment (https://sutharrahul.github.io/hosting-site/)](https://sutharrahul.github.io/hosting-site/)
-  - [Code (https://github.com/sutharrahul/hosting-site)](https://github.com/sutharrahul/hosting-site)
+  - Deployment: [(https://sutharrahul.github.io/hosting-site/)](https://sutharrahul.github.io/hosting-site/)
+  - Code: [(https://github.com/sutharrahul/hosting-site)](https://github.com/sutharrahul/hosting-site)
   - ![241996106-b7397fa2-9072-4d0b-a520-3772b7da45eb](https://github.com/sutharrahul/projects/assets/117563756/1d8bfb06-1068-420e-9de1-99a7964afb59)
 
 
